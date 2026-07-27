@@ -1,0 +1,4 @@
+interface:
+  display_name: "全书速读"
+  short_description: "基于用户原书逐章生成可靠、完整、可续写的中文速读报告"
+  default_prompt: "使用 $speed-read-book，完整速读我上传的书并生成中文报告。"
